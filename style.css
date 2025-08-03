@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(253, 122, 0)
+}
+
+#powitanie {
+    background-color: rgb(149, 255, 237);
+    color: rgb(247, 108, 132);
+}
+
+#dźajupiii {
+    color: brown;
+    font-weight: 900;
+    font-size: 10px;
+    transition-duration: 1s;
+}
+
+#klasasa {
+    color: rgb(128, 140, 255)
+}
+
+#dźajupiii:hover {
+    color: blue;
+    font-size: 2500px;
+    font-weight: 900;
+    transition-duration: 1s;
+
+}
+
+.zdjecia {
+    width: 300px;
+    transition-duration: 5.5s;
+}
+
+.zdjecia:hover {
+
+    width: 800px;
+    transition-duration: 5.5s;
+    rotate: 3600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000deg;
+
+}
+
+#nawigacja {
+    width: 100%;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+
+}
+
+#nawigacja a {
+    color: aquamarine;
+    text-decoration: none;
+}
